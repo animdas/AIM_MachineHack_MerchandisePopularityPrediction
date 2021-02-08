@@ -1,5 +1,5 @@
 # AIM_MachineHack_MerchandisePopularityPrediction
-###### In case of trouble opening the jupyter notebook (rendering issue), use this link: https://nbviewer.jupyter.org/https:/github.com/animdas/AIM_MachineHack_MerchandisePopularityPrediction/blob/main/Merchandise%20Popularity%20Prediction%20Notebook.ipynb
+###### In case of trouble opening the jupyter notebook (rendering issue), use this link: https://nbviewer.jupyter.org/github/animdas/AIM_MachineHack_MerchandisePopularityPrediction/blob/main/Merchandise%20Popularity%20Prediction%20Notebook.ipynb
 
 Objective: Big Brands spend a significant amount on popularizing a product. Nevertheless, their efforts go in vain while establishing the merchandise in the hyperlocal market. Based on different geographical conditions same attributes can communicate a piece of much different information about the customer. Hence, insights this is a must for any brand owner.
 
